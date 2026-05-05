@@ -293,6 +293,14 @@ GET  /api/company/pickups  → company pickups list
 - <img width="1362" height="355" alt="Screenshot 2026-05-05 133413" src="https://github.com/user-attachments/assets/32505a9c-128e-4abd-a644-b1c4bda22995" />
 - <img width="1391" height="473" alt="Screenshot 2026-05-05 133604" src="https://github.com/user-attachments/assets/eb5391ce-eaa1-402a-b412-bc68255e382d" />
 
+## Complete Video Tutorial
+- 
+
+https://github.com/user-attachments/assets/9a6a5fb3-effa-466d-854e-3cc088fc26d7
+
+
+
+
 
 
 ---
