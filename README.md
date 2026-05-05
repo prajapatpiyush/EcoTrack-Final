@@ -272,13 +272,10 @@ GET  /api/company/pickups  → company pickups list
 
 ## 📸 Screenshots
 
-> _Add screenshots here after running the application_
+> 
 
-- [ ] Home Page — Hero section
-- [ ] Citizen Dashboard — Wallet stats + recent activity
-- [ ] Waste Submission — Type selector + reward preview
-- [ ] Admin Dashboard — Analytics cards + inventory chart
-- [ ] Admin Batch Management — Batch flow table
+-  <img width="1901" height="9308" alt="localhost_3000-EcoTrack" src="https://github.com/user-attachments/assets/d4b43a63-a98a-4ba5-ae55-68ff301eb241" />
+
 
 ---
 
