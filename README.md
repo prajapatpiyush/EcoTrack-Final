@@ -307,3 +307,6 @@ GET  /api/company/pickups  → company pickups list
 ---
 
 *EcoTrack — Smarter Waste. Greener Future. 🌿*
+
+
+## NOTE: Backend is not deployed yet, only forntend is deployed 
